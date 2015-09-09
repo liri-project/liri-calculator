@@ -212,15 +212,7 @@ ApplicationWindow {
                 width: Units.dp(20)
                 height:width
                 iconName:"navigation/menu"
-                MouseArea {
-                    id: ma_menu
-                    anchors.fill: parent
-                    onPressed:
-                    {
-                        drawer.open();
-
-                    }
-                }
+                onClicked: drawer.open()
             }
 
         Rectangle {
