@@ -11,10 +11,5 @@ CONFIG += staticlib
 
 target.path = /usr/bin
 
-desktop.files = papyros-calculator.desktop
-desktop.path = /usr/share/applications
-
-INSTALLS += target desktop
-
-
-RC_ICONS = other/papyros-calculator.ico
+RC_ICONS += icons/papyros-calculator.ico
+ICON += icons/papyros-calculator.icns
