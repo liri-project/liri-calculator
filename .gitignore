@@ -20,3 +20,7 @@ GeneratedFiles/
 *.vcxproj.user
 *.rc
 *.opensdf
+src/.DS_Store
+.qmake.stash
+papyrus-calculator.app
+.DS_Store
