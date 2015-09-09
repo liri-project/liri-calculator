@@ -143,7 +143,7 @@ ApplicationWindow {
                 }
             }
             }
-            Icon {
+            IconButton {
                 id:del
                 visible: entry.text=='' ? false : true
                 anchors.top: parent.top
@@ -152,7 +152,7 @@ ApplicationWindow {
           		anchors.right: parent.right
            		anchors.margins: Units.dp(5)
                 anchors.rightMargin: Units.dp(30)
-                name: "navigation/arrow_back"
+                iconName:"navigation/arrow_back"
                 MouseArea {
                      Timer {
                          id: timer1
@@ -204,14 +204,14 @@ ApplicationWindow {
                     }
                 }
             }
-            Icon {
+            IconButton {
                 id:menu
                 anchors.top: parent.top
                 anchors.right: parent.right
                 anchors.margins: Units.dp(5)
                 width: Units.dp(20)
                 height:width
-                name: "navigation/menu"
+                iconName:"navigation/menu"
                 MouseArea {
                     id: ma_menu
                     anchors.fill: parent
