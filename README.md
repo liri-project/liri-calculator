@@ -17,6 +17,6 @@ https://github.com/papyros/calculator-app/releases
   - $ make
   - # make install
 
-![alt tag](https://raw.githubusercontent.com/pierremtb/papyros-calculator/master/screenshots/papyros-calculator.png)
-![alt tag](https://raw.githubusercontent.com/pierremtb/papyros-calculator/master/screenshots/papyros-calculator-windows.png)
-![alt tag](https://raw.githubusercontent.com/pierremtb/papyros-calculator/master/screenshots/papyros-calculator-ios9.png)
+![alt tag](./screenshots/papyros-calculator.png)
+![alt tag](./screenshots/papyros-calculator-windows.png)
+![alt tag](./screenshots/papyros-calculator-ios9.png)
