@@ -19,3 +19,4 @@ https://github.com/papyros/calculator-app/releases
 
 ![alt tag](https://raw.githubusercontent.com/pierremtb/papyros-calculator/master/screenshots/papyros-calculator.png)
 ![alt tag](https://raw.githubusercontent.com/pierremtb/papyros-calculator/master/screenshots/papyros-calculator-windows.png)
+![alt tag](https://raw.githubusercontent.com/pierremtb/papyros-calculator/master/screenshots/papyros-calculator-ios9.png)
