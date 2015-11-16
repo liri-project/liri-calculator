@@ -19,4 +19,4 @@ https://github.com/papyros/calculator-app/releases
 
 ![alt tag](./screenshots/papyros-calculator.png)
 ![alt tag](./screenshots/papyros-calculator-windows.png)
-![alt tag](./screenshots/papyros-calculator-ios9.png)
+![alt tag](./screenshots/papyros-calculator-ios.png)
