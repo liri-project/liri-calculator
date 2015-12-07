@@ -11,7 +11,7 @@ https://github.com/papyros/calculator-app/releases
 
 * Compile from source on Windows, Linux, OSX
   - Be sure you have set up qt5 and dependencies, qml-extras, qml-material (see https://github.com/papyros/qml-material)
-  - $ git clone https://github.com/pierremtb/papyros-calculator
+  - $ git clone https://github.com/liri-project/liri-calculator.git
   - $ cd papyros-calculator
   - $ qmake
   - $ make
