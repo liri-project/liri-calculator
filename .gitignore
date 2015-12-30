@@ -5,10 +5,10 @@ Makefile.Debug
 Makefile.Release
 release
 debug
-papyros-calculator
-qrc_papyros-calculator.cpp
-papyros-calculator_resource.rc
-papyros-calculator.pro.user
+liri-calculator
+qrc_liri-calculator.cpp
+liri-calculator_resource.rc
+liri-calculator.pro.user
 release/
 debug/
 Win32/
@@ -22,5 +22,5 @@ GeneratedFiles/
 *.opensdf
 src/.DS_Store
 .qmake.stash
-papyrus-calculator.app
+liri-calculator.app
 .DS_Store
