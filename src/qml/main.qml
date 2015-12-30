@@ -1,5 +1,5 @@
 /*
-* Papyros Calculator - A calculator application for Papyros
+* Liri Calculator - A calculator application for Papyros
 * Copyright (C) 2015 Pierre Jacquier
 * http://pierre-jacquier.com/
 *
@@ -121,8 +121,6 @@ ApplicationWindow {
                     onTextChanged: {
                         result.text = Script.Evaluer(entry.text);
                         //result.text = MathJS.eval(entry.text);
-                        console.log(history);
-                        console.log(history_pos);
                     }
                     color:'#757575'
                     Settings {

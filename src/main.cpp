@@ -1,5 +1,5 @@
 /*
-* Papyros Calculator - A calculator application for Papyros
+* Liri Calculator - A calculator application for Papyros
 * Copyright (C) 2015 Pierre Jacquier
 * http://pierre-jacquier.com
 *
@@ -34,7 +34,7 @@ int main(int argc, char **argv)
 
         app.setOrganizationName("Pierre Jacquier");
         app.setOrganizationDomain("github.com/pierremtb");
-        app.setApplicationName("papyros-calculator");
+        app.setApplicationName("liri-calculator");
         QQmlApplicationEngine appEngine;
         appEngine.load(QUrl("qrc:/qml/main.qml"));
         QMetaObject::invokeMethod(appEngine.rootObjects().first(), "load");

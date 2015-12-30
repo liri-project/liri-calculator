@@ -9,11 +9,11 @@ SOURCES += src/main.cpp
 
 OTHER_FILES = README.md
 
-RESOURCES += src/papyros-calculator.qrc
+RESOURCES += src/liri-calculator.qrc
 
 CONFIG += staticlib
 
 target.path = /usr/bin
 
-RC_ICONS += icons/papyros-calculator.ico
-ICON += icons/papyros-calculator.icns
+RC_ICONS += icons/liri-calculator.ico
+ICON += icons/liri-calculator.icns
