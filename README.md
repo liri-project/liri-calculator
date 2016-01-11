@@ -9,11 +9,12 @@ How to :
 * Install on Windows and Linux :
 https://github.com/papyros/calculator-app/releases
 
-* Compile from source on Windows, Linux, OSX
+* Compile from source on any Qt platform : 
   - Be sure you have set up qt5 and dependencies, qml-extras, qml-material (see https://github.com/papyros/qml-material)
   - $ git clone https://github.com/liri-project/liri-calculator.git
   - $ cd papyros-calculator
-  - $ qmake
+  - $ mkdir build
+  - $ cmake ..
   - $ make
   - # make install
 
