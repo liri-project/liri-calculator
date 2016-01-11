@@ -24,3 +24,4 @@ src/.DS_Store
 .qmake.stash
 liri-calculator.app
 .DS_Store
+build
