@@ -29,7 +29,7 @@ int main(int argc, char **argv)
         app.setOrganizationDomain("liriproject.me");
         app.setApplicationName("Liri Calculator");
 
-        #if QT_VERSION >= QT_VERSION_CHECK(5, 6, 0)
+        #if QT_VERSION >= QT_VERSION_CHECK(5, 7, 0)
             app.setDesktopFileName("me.liriproject.Calculator.desktop");
         #endif
 
